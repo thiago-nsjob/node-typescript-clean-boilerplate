@@ -1,0 +1,8 @@
+#dev config 
+somedb:
+  server : devlocalhost
+  port   : 6379
+
+
+
+
